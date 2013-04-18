@@ -1,1 +1,1 @@
-src/wanproj.x
+src/proj.x

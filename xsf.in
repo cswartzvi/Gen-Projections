@@ -1,9 +1,6 @@
 &projections
    spec_root   =  'Simulation_Files/KS_',
    spec_ext    =  '.dat'
-   proj_state  =  139
-   proj_root   =  'Simulation_Files/KS_',
-   proj_ext    =  '.dat'
    nbsp        =  256
    print_xsf   =  .TRUE.
    atomfile    =  'atoms.dat'
